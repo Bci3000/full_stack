@@ -1,3 +1,23 @@
 p{
-    color: red
+    color: black /*elemento*/
+}
+
+#p_1{
+    color: blue; /*elemento expecifico*/
+}
+
+.class_teste{
+    color: peru;
+}
+
+div p{
+    color: blueviolet;
+}
+
+#p_2:hover{
+    color: coral;
+}
+
+#p_3 :visited{
+    color: red;
 }
