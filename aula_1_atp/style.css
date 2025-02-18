@@ -1,0 +1,16 @@
+.div_head{
+            /*top right bottom leff*/
+    padding: 25px 0px 0px 500px ;
+}
+
+#h_1{
+    font-style: italic;
+    font-size: 20pt;
+}
+
+ul{
+    color: cyan;
+}
+h1:hover{
+    color: blue;
+}
