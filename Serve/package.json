@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.1.0"
+  },
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "ahhhhhhhhhh",
+  "main": "serve.js",
+  "scripts": {
+    "test": "venda_de_provas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bci3000/full_stack.git"
+  },
+  "keywords": [
+    "servidor_node_js",
+    "crack"
+  ],
+  "author": "felipe brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bci3000/full_stack/issues"
+  },
+  "homepage": "https://github.com/Bci3000/full_stack#readme"
+}
